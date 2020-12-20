@@ -2,7 +2,7 @@
 
 A simple Recording Light for Apple Logic Pro, using the Mackie HUI protocol. Runs on a ESP32 DevKit with the Arduino BLE MIDI library. 
 
-Lights are 12 LEDs on a WS2812 based LED strip.
+Lights are 12 LEDs on a WS2812 based LED strip. Control by FastLED library.
 
 Idle/not connected via BT: 
 - Rainbow
