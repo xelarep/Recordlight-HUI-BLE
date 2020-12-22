@@ -1,4 +1,4 @@
-# RecordingLightHUI
+# Recordlight-HUI-BLE
 
 A simple Recording Light for Apple Logic Pro, using the Mackie HUI protocol. Runs on a ESP32 DevKit with the Arduino BLE MIDI library https://github.com/lathoub/Arduino-BLE-MIDI. 
 Lights used are 12 LEDs on a WS2812 based LED strip. Controlled by the FastLED library. Additional single LED as connector inidcator also supported.
